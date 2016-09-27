@@ -1,0 +1,15 @@
+td.red {
+    font-weight: bold;
+    font-size: 15px;
+    color: red;
+}
+td.amber {
+    font-weight: bold;
+    font-size: 15px;
+    color: #FFBF00;
+}
+td.green {
+    font-weight: bold;
+    font-size: 15px;
+    color: green;
+}

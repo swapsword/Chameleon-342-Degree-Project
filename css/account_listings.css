@@ -1,0 +1,40 @@
+/*Note:- 1) use only ID , dont use class for styling as in this
+project we are usingCSS framework Semantic UI which uses class
+2) Assign any attribute id from 1 to 20 for ex. For div, id d1 to d20
+is reserved for this file */
+body {
+    margin:0px;
+    background-color:rgba(51, 51, 51, 1);
+    background-image:none;
+    position:relative;
+    left:-0px;
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+/*Left side of page*/
+#dtop{
+    background-color: #D7D7D7;
+    height: 100px;
+}
+#h1{
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#d1{
+    float: left;
+    margin: auto;
+}
+#d3{
+    float: left;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+/*Right side of page*/
+#dbottom{
+    background-color: #F2F2F2;
+    height: 100%;
+}

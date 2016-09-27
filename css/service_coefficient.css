@@ -1,0 +1,25 @@
+/*Note:- 1) use only ID , dont use class for styling as in this
+project we are usingCSS framework Semantic UI which uses class
+2) Assign any attribute id from 21 to 40 for ex. For div, id d21 to d40
+is reserved for this file */
+body {
+    margin:0px;
+    background-color:rgba(51, 51, 51, 1);
+    background-image:none;
+    position:relative;
+    left:-0px;
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+/*div for center body grid twelve*/
+#dcenter{
+    background-color: #F2F2F2;
+    height: 100%;
+}
+#d21{
+    margin-top: 15px;
+    margin-left: 485px;
+    margin-bottom: 10px;
+}
